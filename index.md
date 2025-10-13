@@ -270,7 +270,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
         <div class="contact-icon">📧</div>
         <h3>Email</h3>
         <p>ajacquet.er@gmail.com</p>
-        <a href="mailto:ajacquet.er@gmail.com" class="btn">Enviar Email</a>
+        <a href="mailto:ajacquet.er@gmail.com?subject=Consulta%20desde%20Portfolio&body=Hola%20Alexis,%0A%0AMe%20gustaría%20conectar%20contigo.%0A%0ASaludos!" class="btn">Enviar Email</a>
       </div>
       
       <div class="contact-card">
