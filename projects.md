@@ -204,35 +204,35 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
       <!-- Proyecto 4: Henry Project 2 -->
       <div class="project-card">
         <div class="project-content">
-          <h3>🎬 Sistema de Recomendación de Películas con ML</h3>
-          <p class="project-type">Machine Learning & Recommender Systems</p>
-          <p>Sistema de recomendación de películas implementando algoritmos de filtrado colaborativo y basado en contenido. Incluye API con FastAPI y deployment completo.</p>
+          <h3>🚚 FleetLogix - Analytics de Logística con Datos Sintéticos</h3>
+          <p class="project-type">Data Engineering & Synthetic Data Generation</p>
+          <p>Proyecto de análisis de datos para FleetLogix, una empresa ficticia de logística. Implementa generación de datos sintéticos realistas para estudios de optimización de flota y análisis operacional.</p>
           
           <div class="project-process">
             <h4>🔧 Características Técnicas:</h4>
             <ul>
-              <li><strong>Algoritmos ML:</strong> Content-based & Collaborative filtering</li>
-              <li><strong>API REST:</strong> FastAPI con endpoints optimizados</li>
-              <li><strong>ETL Pipeline:</strong> Procesamiento de datasets masivos</li>
-              <li><strong>Deployment:</strong> Sistema productivo escalable</li>
+              <li><strong>Generación de Datos:</strong> Datasets sintéticos realistas y escalables</li>
+              <li><strong>Data Engineering:</strong> Pipeline ETL completo y automatizado</li>
+              <li><strong>Analytics:</strong> KPIs operacionales y métricas de rendimiento</li>
+              <li><strong>Visualización:</strong> Dashboards interactivos para toma de decisiones</li>
             </ul>
           </div>
           
           <div class="project-deliverables">
             <h4>📊 Resultados:</h4>
             <ul>
-              <li><strong>Precisión:</strong> Alta tasa de recomendaciones relevantes</li>
-              <li><strong>Performance:</strong> Respuestas en milisegundos</li>
-              <li><strong>Escalabilidad:</strong> Manejo de millones de registros</li>
+              <li><strong>Datos Sintéticos:</strong> Generación de datasets realistas de logística</li>
+              <li><strong>Análisis Operacional:</strong> Optimización de rutas y recursos</li>
+              <li><strong>Insights de Negocio:</strong> Métricas clave de rendimiento de flota</li>
             </ul>
           </div>
           
           <div class="project-meta">
             <span class="tech-badge">Python</span>
-            <span class="tech-badge">FastAPI</span>
-            <span class="tech-badge">ML</span>
-            <span class="tech-badge">Recommender Systems</span>
-            <span class="tech-badge">Scikit-learn</span>
+            <span class="tech-badge">Data Engineering</span>
+            <span class="tech-badge">ETL</span>
+            <span class="tech-badge">Synthetic Data</span>
+            <span class="tech-badge">Analytics</span>
           </div>
           
           <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/PROYECTO_2_HENRY/PROYECTO%20HENRY%202" class="btn" target="_blank">Ver Proyecto</a>
