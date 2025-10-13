@@ -14,7 +14,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
       
       <div class="hero-stats">
         <div class="stat-item">
-          <span class="stat-number" style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">6+</span>
+          <span class="stat-number" style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">8+</span>
           <span class="stat-label">Proyectos Completados</span>
         </div>
         <div class="stat-item">
@@ -101,7 +101,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
             </ul>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/ANALISIS-SENTIMIENTOS-TWITTER-NLPxRNC" class="btn">Ver Proyecto</a>
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/ANALISIS%20SENTIMIENTOS%20(TWITTER)(NLPxRNC)" class="btn" target="_blank">Ver Proyecto</a>
         </div>
       </div>
 
@@ -127,7 +127,9 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
             </ul>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/DS_APLICADO_NEGOCIOS" class="btn">Explorar Suite</a>
+          <div style="margin-top: 1rem;">
+            <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS" class="btn" target="_blank">Explorar Suite Completa</a>
+          </div>
         </div>
       </div>
 
@@ -152,7 +154,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
             </ul>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/TRADUCTOR-TRANSFORMER" class="btn">Ver Código</a>
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/TRADUCTOR%20%20(TRANSFORMER)" class="btn" target="_blank">Ver Código</a>
         </div>
       </div>
 
@@ -160,6 +162,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
     
     <div style="text-align: center; margin-top: 3rem;">
       <a href="./projects" class="btn btn-secondary">Ver Todos los Proyectos</a>
+      <a href="https://github.com/JacquetAlexis23/portfolio-projects" class="btn" target="_blank" style="margin-left: 1rem;">📦 Repositorio Completo</a>
     </div>
   </section>
 
@@ -212,6 +215,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
           <span class="tech-badge">Docker</span>
           <span class="tech-badge">AWS</span>
           <span class="tech-badge">Google Cloud</span>
+          <span class="tech-badge">Snowflake</span>
         </div>
       </div>
       

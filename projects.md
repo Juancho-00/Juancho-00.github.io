@@ -57,7 +57,7 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
         </div>
         
         <div class="showcase-buttons">
-          <a href="https://github.com/JacquetAlexis23/ANALISIS-SENTIMIENTOS-TWITTER-NLPxRNC" class="btn btn-white" target="_blank">Ver en GitHub</a>
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/ANALISIS%20SENTIMIENTOS%20(TWITTER)(NLPxRNC)" class="btn btn-white" target="_blank">Ver en GitHub</a>
           <a href="#sentiment-details" class="btn btn-outline-white">Detalles Técnicos</a>
         </div>
       </div>
@@ -105,7 +105,23 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
             <span class="tech-badge">NLP</span>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/DS_APLICADO_NEGOCIOS" class="btn" target="_blank">Explorar Suite</a>
+          <div style="margin-top: 1.5rem;">
+            <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS" class="btn" target="_blank" style="width: 100%; margin-bottom: 1rem;">📦 Ver Suite Completa</a>
+            
+            <details style="margin-top: 1rem;">
+              <summary style="cursor: pointer; padding: 0.5rem; background: var(--bg-light); border-radius: 8px; font-weight: 600; color: var(--primary-color);">
+                🔍 Ver Proyectos Individuales por Departamento
+              </summary>
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.5rem; margin-top: 1rem;">
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/1.%20Human%20Resources" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">👥 HR Analytics</a>
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/2.%20Marketing%20Department" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">📈 Marketing ML</a>
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/3.%20Sales%20Department%20Data" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">💰 Sales Forecasting</a>
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/4.%20Operations%20Department" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">⚙️ Operations AI</a>
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/5.%20Public%20Relations%20Department" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">📢 PR Intelligence</a>
+                <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/DS_APLICADO_NEGOCIOS/6.%20Maintenance%20Department" class="btn btn-outline" target="_blank" style="font-size: 0.85rem;">🔧 Predictive Maintenance</a>
+              </div>
+            </details>
+          </div>
         </div>
       </div>
 
@@ -143,7 +159,7 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
             <span class="tech-badge">BERT</span>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/TRADUCTOR-TRANSFORMER" class="btn" target="_blank">Ver Código</a>
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/TRADUCTOR%20%20(TRANSFORMER)" class="btn" target="_blank">Ver Código</a>
         </div>
       </div>
 
@@ -181,10 +197,63 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
             <span class="tech-badge">BI</span>
           </div>
           
-          <a href="https://github.com/JacquetAlexis23/PROYECTO_1_HENRY" class="btn" target="_blank">Ver Análisis</a>
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/PROYECTO_1_HENRY" class="btn" target="_blank">Ver Análisis</a>
         </div>
       </div>
 
+      <!-- Proyecto 4: Henry Project 2 -->
+      <div class="project-card">
+        <div class="project-content">
+          <h3>🎬 Sistema de Recomendación de Películas con ML</h3>
+          <p class="project-type">Machine Learning & Recommender Systems</p>
+          <p>Sistema de recomendación de películas implementando algoritmos de filtrado colaborativo y basado en contenido. Incluye API con FastAPI y deployment completo.</p>
+          
+          <div class="project-process">
+            <h4>🔧 Características Técnicas:</h4>
+            <ul>
+              <li><strong>Algoritmos ML:</strong> Content-based & Collaborative filtering</li>
+              <li><strong>API REST:</strong> FastAPI con endpoints optimizados</li>
+              <li><strong>ETL Pipeline:</strong> Procesamiento de datasets masivos</li>
+              <li><strong>Deployment:</strong> Sistema productivo escalable</li>
+            </ul>
+          </div>
+          
+          <div class="project-deliverables">
+            <h4>📊 Resultados:</h4>
+            <ul>
+              <li><strong>Precisión:</strong> Alta tasa de recomendaciones relevantes</li>
+              <li><strong>Performance:</strong> Respuestas en milisegundos</li>
+              <li><strong>Escalabilidad:</strong> Manejo de millones de registros</li>
+            </ul>
+          </div>
+          
+          <div class="project-meta">
+            <span class="tech-badge">Python</span>
+            <span class="tech-badge">FastAPI</span>
+            <span class="tech-badge">ML</span>
+            <span class="tech-badge">Recommender Systems</span>
+            <span class="tech-badge">Scikit-learn</span>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/PROYECTO_2_HENRY/PROYECTO%20HENRY%202" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Sección de Link al Repositorio Padre -->
+  <section class="fade-in-scroll">
+    <div class="card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 3rem;">
+      <h2 style="color: white; margin-bottom: 1rem;">📦 Repositorio Completo de Proyectos</h2>
+      <p style="font-size: 1.1rem; margin-bottom: 2rem; opacity: 0.95;">
+        ¿Quieres explorar todos mis proyectos en un solo lugar? Visita el repositorio padre con la colección completa de proyectos de Data Science, Machine Learning y Deep Learning.
+      </p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="https://github.com/JacquetAlexis23/portfolio-projects" class="btn btn-white" target="_blank" style="font-size: 1.1rem; padding: 0.8rem 2rem;">
+          🚀 Ver Todos los Proyectos en GitHub
+        </a>
+      </div>
     </div>
   </section>
 
