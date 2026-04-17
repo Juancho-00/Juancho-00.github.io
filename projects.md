@@ -201,6 +201,160 @@ description: "Portafolio completo de proyectos de Machine Learning, Deep Learnin
         </div>
       </div>
 
+      <!-- Proyecto 3: Henry Project 3 - TechCore Dashboard -->
+      <div class="project-card">
+        <div class="project-content">
+          <h3>📊 TechCore - Dashboard Interactivo de Ventas (Power BI)</h3>
+          <p class="project-type">Business Intelligence & Data Engineering</p>
+          <p>Dashboard profesional de ventas para TechCore, cadena minorista de tecnología. Análisis de 30,000 facturas a lo largo de 11 años (4 ciudades, 6 sucursales, 44 productos), con modelo relacional y seguridad RLS.</p>
+          
+          <div class="project-process">
+            <h4>🔧 Fases del Proyecto:</h4>
+            <ul>
+              <li><strong>Fase 1:</strong> Limpieza y transformación de datos en Power Query</li>
+              <li><strong>Fase 2:</strong> Modelo relacional estrella optimizado</li>
+              <li><strong>Fase 3:</strong> Dashboard interactivo con RLS por sucursal</li>
+            </ul>
+          </div>
+          
+          <div class="project-deliverables">
+            <h4>📈 Resultados:</h4>
+            <ul>
+              <li><strong>Cobertura:</strong> 30,000 facturas · 11 años de histórico</li>
+              <li><strong>KPIs:</strong> Revenue, sell-through, margen por marca/ciudad</li>
+              <li><strong>Seguridad:</strong> RLS diferenciado por rol y sucursal</li>
+            </ul>
+          </div>
+          
+          <div class="project-meta">
+            <span class="tech-badge">Power BI</span>
+            <span class="tech-badge">DAX</span>
+            <span class="tech-badge">Power Query</span>
+            <span class="tech-badge">Data Modeling</span>
+            <span class="tech-badge">RLS</span>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/PROYECTO_3_HENRY" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
+      <!-- Proyecto: Henry Project 4 - FinanceGuard Churn -->
+      <div class="project-card">
+        <div class="project-content">
+          <h3>🏦 FinanceGuard Bank - Predicción de Churn con ML</h3>
+          <p class="project-type">Machine Learning · Clasificación · Negocio Financiero</p>
+          <p>Sistema predictivo de churn para 10,000 clientes bancarios con tasa de abandono del 20% anual. Se evaluaron 6 modelos (Logística, RF, XGBoost, LightGBM, CatBoost) con optimización de hiperparámetros y segmentación no supervisada.</p>
+          
+          <div class="project-technical">
+            <h4>🤖 Modelos Desarrollados:</h4>
+            <ul>
+              <li><strong>Baseline:</strong> Regresión Logística interpretable</li>
+              <li><strong>Champion:</strong> LightGBM + GridSearch optimizado</li>
+              <li><strong>Clustering:</strong> K-Means para segmentación de riesgo</li>
+              <li><strong>Visualización:</strong> ROC-AUC, Radar Charts, ROI analysis</li>
+            </ul>
+          </div>
+          
+          <div class="project-impact">
+            <h4>💰 Impacto de Negocio:</h4>
+            <ul>
+              <li><strong>Churn reducible:</strong> Mejora 30-40% en retención</li>
+              <li><strong>El adquirir new cliente:</strong> 5-7x más caro que retener</li>
+              <li><strong>ROI estimado:</strong> Recuperación $10M+ anuales en riesgo</li>
+            </ul>
+          </div>
+          
+          <div class="project-meta">
+            <span class="tech-badge">Scikit-learn</span>
+            <span class="tech-badge">XGBoost</span>
+            <span class="tech-badge">LightGBM</span>
+            <span class="tech-badge">CatBoost</span>
+            <span class="tech-badge">K-Means</span>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/PROYECTO_4_HENRY" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
+      <!-- Proyecto: Henry Project 5 - MLOps Pipeline -->
+      <div class="project-card">
+        <div class="project-content">
+          <h3>⚙️ MLOps Pipeline - Predicción de Pagos Bancarios</h3>
+          <p class="project-type">MLOps · FastAPI · Docker · SonarCloud</p>
+          <p>Pipeline MLOps end-to-end para predicción de pagos a tiempo en carteras bancarias. Expone el modelo vía FastAPI REST, lo visualiza con Streamlit y orquesta ambos servicios con Docker Compose. 27 tests automatizados y análisis de calidad con SonarCloud.</p>
+          
+          <div class="project-technical">
+            <h4>🏗️ Arquitectura:</h4>
+            <ul>
+              <li><strong>Feature Engineering:</strong> 35 variables engineered</li>
+              <li><strong>Modelos comparados:</strong> 11 algoritmos evaluados</li>
+              <li><strong>API REST:</strong> FastAPI + Uvicorn en producción</li>
+              <li><strong>Contenedores:</strong> Docker Compose con red interna</li>
+            </ul>
+          </div>
+          
+          <div class="project-impact">
+            <h4>✅ Calidad & Resultados:</h4>
+            <ul>
+              <li><strong>Tests:</strong> 27 tests automatizados con pytest</li>
+              <li><strong>Calidad:</strong> SonarCloud Quality Gate passed</li>
+              <li><strong>Modelo:</strong> ROC-AUC = 1.0 (Decision Tree champion)</li>
+            </ul>
+          </div>
+          
+          <div class="project-meta">
+            <span class="tech-badge">FastAPI</span>
+            <span class="tech-badge">Streamlit</span>
+            <span class="tech-badge">Docker</span>
+            <span class="tech-badge">MLOps</span>
+            <span class="tech-badge">SonarCloud</span>
+            <span class="tech-badge">pytest</span>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/ProyectoM5_JacquetAlexis" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
+      <!-- Proyecto Final Henry - Nexus RecSys -->
+      <div class="project-card" style="border: 2px solid var(--primary-color);">
+        <div class="project-content">
+          <div class="project-highlight" style="background: var(--primary-color); color: white; padding: 0.3rem 0.8rem; border-radius: 12px; display: inline-block; margin-bottom: 0.5rem; font-size: 0.85rem; font-weight: 700;">🎓 PROYECTO FINAL - HENRY</div>
+          <h3>🛒 Nexus RecSys - Sistema de Recomendación E-Commerce</h3>
+          <p class="project-type">Recomendación · Deep Learning · FastAPI · Streamlit</p>
+          <p>Pipeline end-to-end (NB01–NB15) de sistema de recomendación sobre el dataset RetailRocket (2.75M eventos). Champion: Mega-Ensemble con NDCG@10 = 0.04310 (+50.8% vs baseline). Incluye API REST y dashboard interactivo con motor LLM.</p>
+          
+          <div class="project-technical">
+            <h4>🧠 Modelos Implementados:</h4>
+            <ul>
+              <li><strong>Collaborative Filtering:</strong> SVD, BPR, EASE^R, RP3beta</li>
+              <li><strong>Deep Learning:</strong> Mult-VAE^PR (PyTorch), SASRec (Transformer)</li>
+              <li><strong>Graph:</strong> LightGCN, IPS debiasing</li>
+              <li><strong>Champion:</strong> Mega-Ensemble greedy + Optuna</li>
+            </ul>
+          </div>
+          
+          <div class="project-impact">
+            <h4>📈 Resultados:</h4>
+            <ul>
+              <li><strong>NDCG@10:</strong> 0.04310 (+50.8% vs RP3+TD baseline)</li>
+              <li><strong>Dataset:</strong> 2.75M eventos · ~20M snapshots de ítems</li>
+              <li><strong>API:</strong> 7 endpoints FastAPI · Dashboard 5 páginas</li>
+            </ul>
+          </div>
+          
+          <div class="project-meta">
+            <span class="tech-badge">PyTorch</span>
+            <span class="tech-badge">Transformers</span>
+            <span class="tech-badge">FastAPI</span>
+            <span class="tech-badge">Streamlit</span>
+            <span class="tech-badge">Optuna</span>
+            <span class="tech-badge">RecSys</span>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/Nexus-RecSys" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
       <!-- Proyecto 4: Henry Project 2 -->
       <div class="project-card">
         <div class="project-content">

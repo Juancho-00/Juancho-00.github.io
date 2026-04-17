@@ -14,7 +14,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
       
       <div class="hero-stats">
         <div class="stat-item">
-          <span class="stat-number" style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">8+</span>
+          <span class="stat-number" style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">12+</span>
           <span class="stat-label">Proyectos Completados</span>
         </div>
         <div class="stat-item">
@@ -155,6 +155,57 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
           </div>
           
           <a href="https://github.com/JacquetAlexis23/portfolio-projects/tree/master/TRADUCTOR%20%20(TRANSFORMER)" class="btn" target="_blank">Ver Código</a>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-content">
+          <h3>⚙️ MLOps Pipeline - Predicción de Pagos Bancarios</h3>
+          <p>Pipeline MLOps completo: FastAPI REST + Streamlit dashboard + Docker Compose. 11 algoritmos evaluados, 27 tests automatizados y Quality Gate SonarCloud aprobado.</p>
+          
+          <div class="project-meta">
+            <span class="tech-badge">FastAPI</span>
+            <span class="tech-badge">Docker</span>
+            <span class="tech-badge">MLOps</span>
+            <span class="tech-badge">Scikit-learn</span>
+          </div>
+          
+          <div class="project-impact">
+            <h4>✅ Calidad Técnica:</h4>
+            <ul>
+              <li>27 tests automatizados con pytest</li>
+              <li>SonarCloud Quality Gate passed</li>
+              <li>ROC-AUC = 1.0 en producción</li>
+            </ul>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/ProyectoM5_JacquetAlexis" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+      </div>
+
+      <div class="project-card" style="border: 2px solid var(--primary-color);">
+        <div class="project-content">
+          <p class="project-highlight">🎓 Proyecto Final</p>
+          <h3>🛒 Nexus RecSys - Sistema de Recomendación</h3>
+          <p>Pipeline end-to-end (NB01–NB15) sobre RetailRocket (2.75M eventos). Champion: Mega-Ensemble con NDCG@10 = 0.04310 (+50.8% vs baseline). API REST + Dashboard con LLM.</p>
+          
+          <div class="project-meta">
+            <span class="tech-badge">PyTorch</span>
+            <span class="tech-badge">Transformers</span>
+            <span class="tech-badge">FastAPI</span>
+            <span class="tech-badge">Optuna</span>
+          </div>
+          
+          <div class="project-impact">
+            <h4>🏆 Resultado Champion:</h4>
+            <ul>
+              <li>NDCG@10 = 0.04310 (+50.8% vs baseline)</li>
+              <li>Mult-VAE, SASRec, LightGCN implementados</li>
+              <li>7 endpoints API + dashboard 5 páginas</li>
+            </ul>
+          </div>
+          
+          <a href="https://github.com/JacquetAlexis23/Nexus-RecSys" class="btn" target="_blank">Ver Proyecto</a>
         </div>
       </div>
 
