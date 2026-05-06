@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sobre mí - Juan Quintero"
+title: "Sobre mí"
 description: "..."
 ---
 
