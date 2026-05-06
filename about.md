@@ -245,7 +245,7 @@ description: "..."
         </div>
         
         <div class="personal-cta">
-          <p>Te suena esta visión? Hablemos sobre cómo podemos transformar tu organización juntos</p>
+          <p>Te suena esta visión? Hablemos sobre cómo podemos transformar tu negocio juntos</p>
           <a href="./contact" class="btn btn-white">Iniciar conversación</a>
         </div>
       </div>
