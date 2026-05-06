@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Contacto - Alexis Jacquet"
-description: "Conéctate conmigo para oportunidades de colaboración, consultoría en Data Science, Machine Learning y proyectos de IA."
+title: "Contacto"
+description: "Conéctate conmigo para sesiones de asesorías financieras, consultoría en data business analytics y proyectos de IA."
 ---
 
 <div class="bg-animation"></div>
@@ -12,8 +12,8 @@ description: "Conéctate conmigo para oportunidades de colaboración, consultor�
   box-shadow: var(--shadow-lg);
 } text-align: center;">
     <div class="hero-text">
-      <h1>¡Conectemos!</h1>
-      <p class="subtitle">Estoy disponible para colaboraciones, consultoría y nuevas oportunidades en Data Science e IA</p>
+      <h1>Conectemos!</h1>
+      <p class="subtitle">Disponible para asesorías financieras, sesiones de consultoría y oportunidades laborales</p>
     </div>
   </div>
 </section>
@@ -23,26 +23,30 @@ description: "Conéctate conmigo para oportunidades de colaboración, consultor�
   <section id="intro" class="fade-in-scroll">
     <div class="section-header">
       <h2>¿Tienes un Proyecto Desafiante?</h2>
-      <p>Transformemos juntos tus datos en ventaja competitiva mediante soluciones innovadoras de Machine Learning e IA.</p>
+      <p>Transformemos juntos tus datos en ventaja competitiva mediante soluciones innovadoras de Machine Learning e IA</p>
     </div>
     
     <div class="contact-intro-grid">
       <div class="intro-card">
         <div class="intro-icon">🚀</div>
         <h3>Proyectos Innovadores</h3>
-        <p>Desarrollo soluciones de IA desde el concepto hasta la implementación, con foco en ROI y resultados medibles.</p>
+        <p>
+          Transformemos juntos tus datos en una decisión donde tengas ventaja competitiva mediante soluciones ingeniosas de Data                    Business Analytics, Financial Analytics o soluciones de IA
+        </p>
       </div>
       
       <div class="intro-card">
         <div class="intro-icon">📊</div>
-        <h3>Consultoría Especializada</h3>
-        <p>Asesoramiento técnico en Machine Learning, arquitecturas de datos y estrategias de IA para tu empresa.</p>
+        <h3>Consultorías</h3>
+        <p>
+          Asesoramiento en finanzas, data business analytics y estrategias de IA para tu empresa
+        </p>
       </div>
       
       <div class="intro-card">
         <div class="intro-icon">🎯</div>
         <h3>Resultados Garantizados</h3>
-        <p>Metodología probada con más de $2M en ROI generado y 85%+ de precisión promedio en proyectos.</p>
+        <p>...</p>
       </div>
     </div>
   </section>
