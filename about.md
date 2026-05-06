@@ -128,26 +128,26 @@ description: "..."
       <div class="philosophy-card">
         <div class="philosophy-icon">🎯</div>
         <h3>Orientado a Resultados</h3>
-        <p>Cada línea de código debe contribuir a un objetivo empresarial claro. Mido el éxito en términos de ROI, eficiencia operativa y ventaja competitiva generada.</p>
+        <p>
+          Cada línea de código debe contribuir a un objetivo empresarial claro. Mido el éxito en términos de ROI, eficiencia operativa y            ventaja competitiva generada
+        </p>
       </div>
 
-      <div class="philosophy-grid">
-
-        <div class="philosophy-card">
-          <div class="philosophy-icon">🔬</div>
-          <h3>Criterio científico</h3>
-          <p>
-            Aplico la metodología científica: análisis observatorio y contextualización, planteamientos del problema, hipótesis                       claras, experimentación/análisis y validación para dar la conclusión basada en valor
-          </p>
-        </div>
+      <div class="philosophy-card">
+        <div class="philosophy-icon">🔬</div>
+        <h3>Criterio científico</h3>
+        <p>
+          Aplico la metodología científica: análisis observatorio y contextualización, planteamientos del problema, hipótesis                       claras, experimentación/análisis y validación para dar la conclusión basada en valor
+        </p>
+      </div>
       
-        <div class="philosophy-card">
-          <div class="philosophy-icon">🎯</div>
-          <h3>Orientación a resultados</h3>
-          <p>
-            Cada análisis del problema debe contribuir al objetivo principal del negocio. Se mide el éxito en términos de ROI y ventaja               competitiva generada
-          </p>
-        </div>
+      <div class="philosophy-card">
+        <div class="philosophy-icon">🎯</div>
+        <h3>Orientación a resultados</h3>
+        <p>
+          Cada análisis del problema debe contribuir al objetivo principal del negocio. Se mide el éxito en términos de ROI y ventaja               competitiva generada
+        </p>
+      </div>
       
       <div class="philosophy-card">
         <div class="philosophy-icon">⚡</div>
