@@ -7,7 +7,7 @@
     
     <!-- Meta tags para SEO -->
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="keywords" content="Data Science, Machine Learning, Deep Learning, IA, Python, TensorFlow, PyTorch, Alexis Jacquet">
+    <meta name="keywords" content="Financial Engineer, Data Analyst, IA Solutions, Business Analyst, Juan Quintero">
     <meta name="author" content="{{ site.author }}">
     
     <!-- Open Graph / Facebook -->
@@ -15,14 +15,14 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:image" content="{{ site.url }}/assets/images/profile.jpg">
+    <meta property="og:image" content="{{ site.url }}/assets/images/profile.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="twitter:image" content="{{ site.url }}/assets/images/profile.jpg">
+    <meta property="twitter:image" content="{{ site.url }}/assets/images/profile.png">
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -66,7 +66,7 @@
     <div id="loading-screen" class="loading-screen">
         <div class="loading-spinner">
             <div class="spinner"></div>
-            <p>Cargando Portfolio...</p>
+            <p>Portfolio de Juancho...</p>
         </div>
     </div>
 
@@ -77,8 +77,8 @@
             <div class="header-content">
                 <div class="logo">
                     <a href="{{ '/' | relative_url }}">
-                        <span class="logo-text">AJ</span>
-                        <span class="logo-full">Alexis Jacquet</span>
+                        <span class="logo-text">Juancho</span>
+                        <span class="logo-full">Juan Quintero</span>
                     </a>
                 </div>
                 
@@ -87,7 +87,6 @@
                         <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Inicio</a></li>
                         <li><a href="{{ '/projects' | relative_url }}" {% if page.url contains 'projects' %}class="active"{% endif %}>Proyectos</a></li>
                         <li><a href="{{ '/about' | relative_url }}" {% if page.url contains 'about' %}class="active"{% endif %}>About</a></li>
-                        <li><a href="{{ '/blog' | relative_url }}" {% if page.url contains 'blog' %}class="active"{% endif %}>Blog</a></li>
                         <li><a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contacto</a></li>
                     </ul>
                 </nav>
@@ -109,43 +108,43 @@
         <footer class="footer">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>Alexis Jacquet</h3>
-                    <p>Data Scientist especializado en Machine Learning y Deep Learning con enfoque en soluciones empresariales de alto impacto.</p>
+                    <h3>Juan Quintero</h3>
+                    <p>Financial Engineer especializado en Data Business Analytics, Financial Analytics e IA Solutions con enfoque en impacto de valor de negocio.</p>
                 </div>
                 
                 <div class="footer-section">
                     <h4>Enlaces Rápidos</h4>
                     <ul>
-                        <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+                        <li><a href="{{ '/' | relative_url }}">Home</a></li>
                         <li><a href="{{ '/projects' | relative_url }}">Proyectos</a></li>
-                        <li><a href="{{ '/about' | relative_url }}">Sobre Mí</a></li>
+                        <li><a href="{{ '/about' | relative_url }}">Sobre mí</a></li>
                         <li><a href="{{ '/contact' | relative_url }}">Contacto</a></li>
                     </ul>
                 </div>
                 
                 <div class="footer-section">
-                    <h4>Tecnologías</h4>
+                    <h4>Habilidades</h4>
                     <ul>
-                        <li>Python & TensorFlow</li>
-                        <li>Machine Learning</li>
-                        <li>Deep Learning</li>
-                        <li>Computer Vision & NLP</li>
+                        <li>Financial Analytics</li>
+                        <li>Data Analytics</li>
+                        <li>Business Analytics</li>
+                        <li>IA Solutions</li>
                     </ul>
                 </div>
                 
                 <div class="footer-section">
                     <h4>Contacto</h4>
                     <ul>
-                        <li><a href="mailto:ajacquet.er@gmail.com">📧 Email</a></li>
-                        <li><a href="https://linkedin.com/in/alexis-jacquet" target="_blank">💼 LinkedIn</a></li>
-                        <li><a href="https://github.com/JacquetAlexis23" target="_blank">🚀 GitHub</a></li>
+                        <li><a href="mailto:juancho001046@gmail.com">📧 Email</a></li>
+                        <li><a href="https://linkedin.com/in/juan-quintero-354a09289" target="_blank">💼 LinkedIn</a></li>
+                        <li><a href="https://github.com/Juancho-00" target="_blank">🚀 GitHub</a></li>
                     </ul>
                 </div>
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; {{ 'now' | date: "%Y" }} Alexis Jacquet. Todos los derechos reservados.</p>
-                <p>Desarrollado con ❤️ usando Jekyll & GitHub Pages</p>
+                <p>&copy; {{ 'now' | date: "%Y" }} Juan Quintero. Todos los derechos reservados.</p>
+                <p>Desarrollado con Jekyll & GitHub Pages</p>
             </div>
         </footer>
     </div>
