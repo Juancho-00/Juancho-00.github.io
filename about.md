@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Sobre Mí - Alexis Jacquet"
-description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientist especializado en Machine Learning y Deep Learning con enfoque empresarial."
+title: "Sobre mí - Juan Quintero"
+description: "..."
 ---
 
 <div class="bg-animation"></div>
@@ -9,12 +9,12 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
 <section class="hero">
   <div class="hero-content">
     <div class="hero-text animate-slide-left">
-      <h1>Sobre Mí</h1>
-      <p class="subtitle">La historia detrás del Data Scientist que transforma datos en valor empresarial</p>
+      <h1>Sobre mí</h1>
+      <p class="subtitle">La historia detrás del Data Analysis que transforma datos en valor</p>
     </div>
     
     <div class="hero-image animate-slide-up">
-      <img src="./assets/images/profile.jpg" alt="Alexis Jacquet" class="profile-image">
+      <img src="./assets/images/profile.png" alt="Juan Quintero" class="profile-image">
     </div>
   </div>
 </section>
@@ -23,22 +23,23 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
 
   <section id="intro" class="fade-in-scroll">
     <div class="section-header">
-      <h2>Transformando Datos en Decisiones Estratégicas</h2>
-      <p>Mi misión es democratizar el poder de los datos para impulsar el crecimiento empresarial sostenible.</p>
+      <h2>Transformando Datos en Valor</h2>
+      <p>
+        Mi misión como ingeniero financiero es democratizar como los datos en conjunto con el análisis son el poder para crecer el valor.
+      </p>
     </div>
     
     <div class="intro-content">
       <div class="card">
         <p class="lead">
-          Soy <strong>Alexis Jacquet</strong>, un Data Scientist apasionado por resolver problemas empresariales complejos 
-          mediante soluciones innovadoras de <strong>Machine Learning</strong> y <strong>Deep Learning</strong>. 
-          Mi enfoque único combina rigor técnico con visión estratégica de negocio.
+          Soy <strong>Juan Pablo Quintero</strong>, Financial Engineer apasionado por resolver problemas de negocios mediante 
+          soluciones innovadoras de <strong>Data Business Analytics</strong> y <strong>Financial Analytics</strong>. 
+          Mi enfoque combina un análisis y criterio único en pro de aumentar el valor del negocio.
         </p>
         
         <p>
-          Con más de <strong>6 proyectos exitosos</strong> que han generado más de <strong>$2 millones en ROI</strong>, 
-          me especializo en crear soluciones end-to-end que van desde el análisis exploratorio hasta la 
-          implementación en producción. Mi metodología se centra en generar valor empresarial medible y sostenible.
+          Con más de <strong>... proyectos exitosos</strong> que han generado más de <strong>$...  en ROI</strong>, 
+          me enfoco en crear soluciones end-to-end. Mi metodología se centra en generar valor al negocio medible y sostenible.
         </p>
       </div>
     </div>
@@ -46,8 +47,8 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
 
   <section id="journey" class="fade-in-scroll">
     <div class="section-header">
-      <h2>Mi Trayectoria Profesional</h2>
-      <p>Desde los primeros algoritmos hasta arquitecturas empresariales de IA.</p>
+      <h2>Trayectoria Profesional</h2>
+      <p>Desde los primeros análisis hasta soluciones de negocio con IA.</p>
     </div>
     
     <div class="timeline">
@@ -55,13 +56,14 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
       <div class="timeline-item">
         <div class="timeline-marker">🎓</div>
         <div class="timeline-content">
-          <h3>Formación Académica</h3>
-          <p class="timeline-period">Fundamentos Sólidos</p>
-          <p>Desarrollé una base sólida en matemáticas, estadística y programación. Mi formación académica me proporcionó las herramientas conceptuales necesarias para abordar problemas complejos de datos.</p>
+          <h3>Formación académica</h3>
+          <p class="timeline-period">Fundamentos</p>
+          <p>Desarrollé una base sólida en análisis, en matemáticas, en estadística y en finanzas. Mi formación académica me proporcionó los fundamentos necesarios para abordar problemas complejos de datos.</p>
           <div class="timeline-skills">
+            <span class="skill-tag">Finanzas</span>
+            <span class="skill-tag">Análisis</span>
             <span class="skill-tag">Matemáticas</span>
             <span class="skill-tag">Estadística</span>
-            <span class="skill-tag">Programación</span>
           </div>
         </div>
       </div>
@@ -69,13 +71,15 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
       <div class="timeline-item">
         <div class="timeline-marker">🔬</div>
         <div class="timeline-content">
-          <h3>Primeros Proyectos en Data Science</h3>
-          <p class="timeline-period">Especializaciones Técnicas</p>
-          <p>Comencé a especializarme en Machine Learning y Deep Learning, desarrollando mis primeros modelos predictivos. Este período me permitió dominar las tecnologías core como Python, TensorFlow y Scikit-learn.</p>
+          <h3>Primeros proyectos en data business analytics</h3>
+          <p class="timeline-period">Especializaciones técnicas</p>
+          <p>
+            Comencé a especializarme en el data analysis, desarrollando mis primeros modelos financieros y predictivos. Este período me permitió dominar las tecnologías core como Python, R y Scikit-learn
+          </p>
           <div class="timeline-skills">
             <span class="skill-tag">Python</span>
-            <span class="skill-tag">TensorFlow</span>
-            <span class="skill-tag">Machine Learning</span>
+            <span class="skill-tag">R</span>
+            <span class="skill-tag">Scikit-learn</span>
           </div>
         </div>
       </div>
@@ -83,29 +87,14 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
       <div class="timeline-item">
         <div class="timeline-marker">🧠</div>
         <div class="timeline-content">
-          <h3>Proyecto Breakthrough: Análisis de Sentimientos</h3>
-          <p class="timeline-period">Reconocimiento y Expertise</p>
-          <p>Desarrollé mi proyecto estrella de análisis de sentimientos con Deep CNN, procesando +1.6M tweets con 85%+ de precisión. Este proyecto marcó mi transición hacia soluciones de alto impacto empresarial.</p>
+          <h3>Star Project: ...</h3>
+          <p class="timeline-period">Expertise</p>
+          <p>Desarrollé mi proyecto estrella de ... . Este proyecto marcó mi transición hacia soluciones de alto impacto empresarial.</p>
           <div class="timeline-skills">
-            <span class="skill-tag">Deep Learning</span>
-            <span class="skill-tag">NLP</span>
-            <span class="skill-tag">CNN</span>
-            <span class="skill-tag">Transformers</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="timeline-item">
-        <div class="timeline-marker">🏢</div>
-        <div class="timeline-content">
-          <h3>Data Science Aplicado a Negocios</h3>
-          <p class="timeline-period">Impacto Empresarial</p>
-          <p>Expandí mi expertise desarrollando una suite de 6 proyectos empresariales, abarcando desde HR Analytics hasta Mantenimiento Predictivo. Logré un ROI combinado de $2M+ anuales.</p>
-          <div class="timeline-skills">
-            <span class="skill-tag">Business Intelligence</span>
-            <span class="skill-tag">Computer Vision</span>
-            <span class="skill-tag">Time Series</span>
-            <span class="skill-tag">ROI Optimization</span>
+            <span class="skill-tag">...</span>
+            <span class="skill-tag">...</span>
+            <span class="skill-tag">...</span>
+            <span class="skill-tag">...</span>
           </div>
         </div>
       </div>
@@ -113,12 +102,12 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
       <div class="timeline-item">
         <div class="timeline-marker">🚀</div>
         <div class="timeline-content">
-          <h3>Consultor & Arquitecto de Soluciones IA</h3>
-          <p class="timeline-period">Presente</p>
-          <p>Actualmente me enfoco en consultoría estratégica y desarrollo de arquitecturas escalables de IA. Ayudo a empresas a implementar soluciones de Machine Learning que generan ventaja competitiva sostenible.</p>
+          <h3>Consultor & Arquitecto de AI Solutions</h3>
+          <p class="timeline-period">En desarrollo</p>
+          <p>
+            Actualmente me enfoco en consultoría estratégica y desarrollo de arquitecturas escalables con IA. Ayudo a negocios a                      implementar soluciones de data analysis que generan ventaja competitiva sostenible
+          </p>
           <div class="timeline-skills">
-            <span class="skill-tag">MLOps</span>
-            <span class="skill-tag">Cloud Architecture</span>
             <span class="skill-tag">Strategy Consulting</span>
             <span class="skill-tag">Team Leadership</span>
           </div>
@@ -130,8 +119,8 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
 
   <section id="philosophy" class="fade-in-scroll">
     <div class="section-header">
-      <h2>Mi Filosofía de Trabajo</h2>
-      <p>Principios que guían cada proyecto y decisión técnica.</p>
+      <h2>Filosofía de Trabajo</h2>
+      <p>Mis principios que guían cada proyecto y decisión de valor</p>
     </div>
     
     <div class="philosophy-grid">
@@ -141,35 +130,31 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
         <h3>Orientado a Resultados</h3>
         <p>Cada línea de código debe contribuir a un objetivo empresarial claro. Mido el éxito en términos de ROI, eficiencia operativa y ventaja competitiva generada.</p>
       </div>
+
+      <div class="philosophy-grid">
+
+        <div class="philosophy-card">
+          <div class="philosophy-icon">🔬</div>
+          <h3>Criterio científico</h3>
+          <p>
+            Aplico la metodología científica: análisis observatorio y contextualización, planteamientos del problema, hipótesis                       claras, experimentación/análisis y validación para dar la conclusión basada en valor
+          </p>
+        </div>
       
-      <div class="philosophy-card">
-        <div class="philosophy-icon">🔬</div>
-        <h3>Rigor Científico</h3>
-        <p>Aplico metodología científica rigurosa: hipótesis claras, experimentación controlada, validación estadística y documentación exhaustiva de cada proceso.</p>
-      </div>
-      
-      <div class="philosophy-card">
-        <div class="philosophy-icon">🌱</div>
-        <h3>Escalabilidad desde el Inicio</h3>
-        <p>Diseño soluciones thinking big desde el primer día. Cada modelo está preparado para crecer 10x sin reescribir la arquitectura fundamental.</p>
-      </div>
-      
-      <div class="philosophy-card">
-        <div class="philosophy-icon">🤝</div>
-        <h3>Colaboración Multidisciplinaria</h3>
-        <p>Los mejores insights surgen del diálogo entre datos y expertise de dominio. Priorizo la comunicación clara con stakeholders de todas las áreas.</p>
-      </div>
-      
-      <div class="philosophy-card">
-        <div class="philosophy-icon">📚</div>
-        <h3>Aprendizaje Continuo</h3>
-        <p>El campo de IA evoluciona constantemente. Mantengo actualización permanente en técnicas, herramientas y mejores prácticas del ecosistema.</p>
-      </div>
+        <div class="philosophy-card">
+          <div class="philosophy-icon">🎯</div>
+          <h3>Orientación a resultados</h3>
+          <p>
+            Cada análisis del problema debe contribuir al objetivo principal del negocio. Se mide el éxito en términos de ROI y ventaja               competitiva generada
+          </p>
+        </div>
       
       <div class="philosophy-card">
         <div class="philosophy-icon">⚡</div>
-        <h3>Entrega de Valor Rápida</h3>
-        <p>Prefiero entregas iterativas que generen valor desde la primera semana, construyendo confianza y refinando la solución con feedback real.</p>
+        <h3>Entrega de valor</h3>
+        <p>
+          Cada decisión es tomada en la eficiencia y eficacia del negocio, cosntruyendo confianza y refinando la solución con feedback              real
+        </p>
       </div>
       
     </div>
@@ -178,7 +163,7 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
   <section id="expertise" class="fade-in-scroll">
     <div class="section-header">
       <h2>Áreas de Especialización</h2>
-      <p>Dominios técnicos donde puedo generar el mayor impacto para tu organización.</p>
+      <p>Dominios técnicos donde puedo generar el mayor impacto para tu negocio</p>
     </div>
     
     <div class="expertise-sections">
@@ -205,33 +190,6 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
               <span class="app-tag">Fraud Detection</span>
               <span class="app-tag">Price Optimization</span>
               <span class="app-tag">Demand Forecasting</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="expertise-section">
-        <h3>👁️ Computer Vision</h3>
-        <div class="expertise-content">
-          <div class="expertise-description">
-            <p>Implemento soluciones de visión artificial para automatización industrial, control de calidad y análisis visual avanzado.</p>
-          </div>
-          <div class="expertise-techniques">
-            <h4>Técnicas Especializadas:</h4>
-            <ul>
-              <li><strong>Image Classification:</strong> ResNet, EfficientNet, Vision Transformers</li>
-              <li><strong>Object Detection:</strong> YOLO, R-CNN, SSD</li>
-              <li><strong>Segmentation:</strong> U-Net, Mask R-CNN, DeepLab</li>
-              <li><strong>Generative Models:</strong> GANs, VAEs para síntesis de imágenes</li>
-            </ul>
-          </div>
-          <div class="expertise-applications">
-            <h4>Casos de Uso:</h4>
-            <div class="application-tags">
-              <span class="app-tag">Quality Control</span>
-              <span class="app-tag">Defect Detection</span>
-              <span class="app-tag">Medical Imaging</span>
-              <span class="app-tag">Autonomous Systems</span>
             </div>
           </div>
         </div>
@@ -270,27 +228,18 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
   <section class="personal-section fade-in-scroll">
     <div class="card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
       <div class="personal-content">
-        <h2>💡 Más Allá del Código</h2>
+        <h2>💡 Los Datos no lo son Todo...</h2>
         <p class="personal-intro">
-          Creo firmemente que las mejores soluciones de IA surgen cuando combinamos 
-          <strong>excelencia técnica</strong> con <strong>comprensión profunda del negocio</strong> 
-          y <strong>empatía humana</strong>.
+          Creo firmemente que las mejoras y el crecimiento del valor surgen cuando combinamos 
+          <strong>razonamiento lógico</strong> y <strong>comprensión profunda del negocio</strong>.
         </p>
         
-        <div class="personal-values">
-          <div class="value-item">
-            <span class="value-icon">🌟</span>
-            <div class="value-text">
-              <h4>Innovación Responsable</h4>
-              <p>Desarrollo IA que augmenta las capacidades humanas sin reemplazar el juicio crítico y la creatividad.</p>
-            </div>
-          </div>
-          
+        <div class="personal-values">          
           <div class="value-item">
             <span class="value-icon">🎯</span>
             <div class="value-text">
               <h4>Impacto Medible</h4>
-              <p>Cada proyecto debe generar valor cuantificable. Si no se puede medir, no vale la pena construir.</p>
+              <p>Cada proyecto debe generar valor cuantificable. Si no se puede medir, no vale la pena construir</p>
             </div>
           </div>
           
@@ -298,14 +247,14 @@ description: "Conoce la trayectoria profesional de Alexis Jacquet, Data Scientis
             <span class="value-icon">🌍</span>
             <div class="value-text">
               <h4>Visión Global</h4>
-              <p>Las soluciones de datos deben ser éticas, inclusivas y sostenibles para el futuro que queremos construir.</p>
+              <p>Las soluciones de datos deben ser éticas, inclusivas y sostenibles para el futuro que queremos construir</p>
             </div>
           </div>
         </div>
         
         <div class="personal-cta">
-          <p>¿Te resuena esta visión? Hablemos sobre cómo podemos transformar tu organización juntos.</p>
-          <a href="./contact" class="btn btn-white">Iniciar Conversación</a>
+          <p>Te suena esta visión? Hablemos sobre cómo podemos transformar tu organización juntos</p>
+          <a href="./contact" class="btn btn-white">Iniciar conversación</a>
         </div>
       </div>
     </div>
