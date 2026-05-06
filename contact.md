@@ -22,8 +22,10 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
 
   <section id="intro" class="fade-in-scroll">
     <div class="section-header">
-      <h2>¿Tienes un Proyecto Desafiante?</h2>
-      <p>Transformemos juntos tus datos en ventaja competitiva mediante soluciones innovadoras de Machine Learning e IA</p>
+      <h2>Tienes un Proyecto Desafiante?</h2>
+      <p>
+        Transformemos juntos tus datos en una decisión para tener una ventaja competitiva mediante soluciones ingeniosas de Data Business         Analytics, Financial Analytics o soluciones de IA
+      </p>
     </div>
     
     <div class="contact-intro-grid">
@@ -31,7 +33,7 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
         <div class="intro-icon">🚀</div>
         <h3>Proyectos Innovadores</h3>
         <p>
-          Transformemos juntos tus datos en una decisión donde tengas ventaja competitiva mediante soluciones ingeniosas de Data                    Business Analytics, Financial Analytics o soluciones de IA
+          Implemento IA Solutions desde el concepto hasta el funcionamiento, con foco en ROI y resultados medibles
         </p>
       </div>
       
@@ -54,7 +56,7 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
   <section id="servicios" class="fade-in-scroll">
     <div class="section-header">
       <h2>Servicios Profesionales</h2>
-      <p>Soluciones completas de Data Science adaptadas a las necesidades específicas de tu negocio.</p>
+      <p>en desarrollo</p>
     </div>
     
     <div class="services-grid">
@@ -62,19 +64,17 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
       <div class="service-card">
         <div class="service-header">
           <div class="service-icon">🧠</div>
-          <h3>Machine Learning & IA</h3>
+          <h3>IA Solutions</h3>
         </div>
         <div class="service-content">
           <ul>
-            <li><strong>Modelos Predictivos:</strong> Clasificación, regresión y forecasting</li>
-            <li><strong>Deep Learning:</strong> CNN, RNN, Transformers personalizados</li>
-            <li><strong>Computer Vision:</strong> Análisis de imágenes y reconocimiento</li>
-            <li><strong>NLP:</strong> Procesamiento de lenguaje natural y chatbots</li>
-            <li><strong>Recommender Systems:</strong> Sistemas de recomendación avanzados</li>
+            <li><strong>:</strong> </li>
+            <li><strong>:</strong> </li>
+            <li><strong>:</strong> </li>
           </ul>
           <div class="service-pricing">
             <span class="price-label">Desde</span>
-            <span class="price">$2,500</span>
+            <span class="price">$0,000</span>
             <span class="price-period">por proyecto</span>
           </div>
         </div>
@@ -105,15 +105,13 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
       <div class="service-card">
         <div class="service-header">
           <div class="service-icon">🎓</div>
-          <h3>Consultoría & Formación</h3>
+          <h3>Consultorías financieras</h3>
         </div>
         <div class="service-content">
           <ul>
-            <li><strong>Auditoría de Modelos:</strong> Evaluación de sistemas existentes</li>
-            <li><strong>Estrategia de IA:</strong> Roadmap tecnológico empresarial</li>
+            <li><strong>Auditoría financiera:</strong> ...</li>
+            <li><strong>Estrategia financiera:</strong> Roadmap financiero</li>
             <li><strong>Capacitación Técnica:</strong> Workshops y training personalizado</li>
-            <li><strong>Code Review:</strong> Optimización de código y arquitectura</li>
-            <li><strong>Mentoría:</strong> Acompañamiento de equipos técnicos</li>
           </ul>
           <div class="service-pricing">
             <span class="price-label">Desde</span>
@@ -129,7 +127,7 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
   <section id="contacto" class="fade-in-scroll">
     <div class="section-header">
       <h2>Información de Contacto</h2>
-      <p>Elige la forma que prefieras para iniciar nuestra conversación sobre tu proyecto.</p>
+      <p>Elige la forma que prefieras para iniciar nuestra conversación sobre tu proyecto</p>
     </div>
     
     <div class="contact-methods-grid">
@@ -137,9 +135,9 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
       <div class="contact-method primary">
         <div class="contact-icon">📧</div>
         <h3>Email Principal</h3>
-        <p class="contact-detail">ajacquet.er@gmail.com</p>
-        <p class="contact-description">Para consultas detalladas, propuestas de proyecto y colaboraciones profesionales.</p>
-        <a href="mailto:ajacquet.er@gmail.com?subject=Consulta%20Proyecto%20Data%20Science&body=Hola%20Alexis,%0A%0AMe%20gustaría%20discutir%20un%20proyecto%20de%20Data%20Science.%0A%0ADetalles%20del%20proyecto:%0A-%20%0A-%20%0A-%20%0A%0AGracias!" class="btn">Enviar Email</a>
+        <p class="contact-detail">juancho001046@gmail.com</p>
+        <p class="contact-description">Para consultas detalladas, propuestas de proyecto y colaboraciones profesionales</p>
+        <a href="mailto:juancho001046@gmail.com?subject=Consulta%20Proyecto%20Data%20Business%20Analytics&body=Hola%20Juan,%0A%0AMe%20gustaría%20discutir%20un%20proyecto%20de%20Data%20Business%20Analytics.%0A%0ADetalles%20del%20proyecto:%0A-%20%0A-%20%0A-%20%0A%0AGracias!" class="btn">Enviar e-mail</a>
         <div class="response-time">⏱️ Respuesta en 24 horas</div>
       </div>
       
@@ -147,17 +145,17 @@ description: "Conéctate conmigo para sesiones de asesorías financieras, consul
         <div class="contact-icon">💼</div>
         <h3>LinkedIn</h3>
         <p class="contact-detail">linkedin.com/in/alexis-jacquet</p>
-        <p class="contact-description">Conectemos profesionalmente para networking y oportunidades laborales.</p>
+        <p class="contact-description">Conectemos profesionalmente para networking y oportunidades laborales</p>
         <a href="https://www.linkedin.com/in/alexis-jacquet" class="btn btn-outline" target="_blank">Conectar</a>
-        <div class="response-time">📱 Activo diariamente</div>
+        <div class="response-time">📱 Activo semanalmente</div>
       </div>
       
       <div class="contact-method">
         <div class="contact-icon">🚀</div>
         <h3>GitHub</h3>
-        <p class="contact-detail">github.com/JacquetAlexis23</p>
-        <p class="contact-description">Explora mi código, contribuciones y proyectos open source.</p>
-        <a href="https://github.com/JacquetAlexis23" class="btn btn-outline" target="_blank">Ver Repositorios</a>
+        <p class="contact-detail">github.com/Juancho-00</p>
+        <p class="contact-description">Explora mi código</p>
+        <a href="https://github.com/Juancho-00" class="btn btn-outline" target="_blank">Ver repositorio</a>
         <div class="response-time">🔄 Commits semanales</div>
       </div>
 
