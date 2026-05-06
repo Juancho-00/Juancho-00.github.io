@@ -124,14 +124,6 @@ description: "..."
     </div>
     
     <div class="philosophy-grid">
-      
-      <div class="philosophy-card">
-        <div class="philosophy-icon">🎯</div>
-        <h3>Orientado a Resultados</h3>
-        <p>
-          Cada línea de código debe contribuir a un objetivo empresarial claro. Mido el éxito en términos de ROI, eficiencia operativa y            ventaja competitiva generada
-        </p>
-      </div>
 
       <div class="philosophy-card">
         <div class="philosophy-icon">🔬</div>
