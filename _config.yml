@@ -1,12 +1,12 @@
-# Portfolio Personal - Data Scientist
-title: "Alexis Jacquet - Data Scientist"
-author: "Alexis Jacquet"
-email: "ajacquet.er@gmail.com"
-description: "Data Scientist especializado en Machine Learning, Deep Learning y soluciones de IA para negocios"
+# Portfolio Personal - Financial Engineer
+title: "Juan Quintero - Financial Engineer"
+author: "Juan Quintero"
+email: "juancho001046@gmail.com"
+description: "Financial Engineer especializado en Data Business Analytics, Financial Analytics e IA Solutions para negocios"
 baseurl: ""
-url: "https://JacquetAlexis23.github.io"
-linkedin_username: "alexis-jacquet"
-github_username: "JacquetAlexis23"
+url: "https://Juancho-00.github.io"
+linkedin_username: "juan-quintero-354a09289"
+github_username: "Juancho-00"
 
 # Build settings
 markdown: kramdown
@@ -19,14 +19,12 @@ plugins:
 
 # Navigation
 navigation:
-  - title: "Inicio"
+  - title: "Home"
     url: "/"
-  - title: "Sobre Mí"
+  - title: "Sobre mí"
     url: "/about"
   - title: "Proyectos"
     url: "/projects"
-  - title: "Blog"
-    url: "/blog"
   - title: "Contacto"
     url: "/contact"
 
