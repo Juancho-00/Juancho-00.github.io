@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Juan Quintero - Financial Engineer & Data Business Analyst"
+title: "Home"
 description: "Portfolio profesional de Juan Quintero, especializado en Financial Analytics, en Data Business Analytics e AI Solutions para negocios."
 ---
 
