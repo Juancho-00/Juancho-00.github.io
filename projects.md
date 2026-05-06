@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Proyectos - Portfolio Data Science"
+title: "Portfolio Proyectos"
 description: "Portafolio completo de proyectos de Machine Learning, Deep Learning y Data Science con impacto empresarial medible."
 ---
 
