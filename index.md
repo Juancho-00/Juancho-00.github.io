@@ -55,7 +55,7 @@ description: "Portfolio profesional de Juan Quintero, especializado en Financial
         </p>
         
         <div class="specialties">
-          <h4>🔬 Habilidades principales:</h4>
+          <h4>⚡ Habilidades principales:</h4>
           <ul>
             <li><strong>Data Analytics:</strong> Análisis descriptivo e inferencial, concocimiento del mercado/industria, limpieza de la data, pensamiento crítico </li>
             <li><strong>Business Intelligence:</strong> Dashboards y visualización de datos</li>
@@ -188,8 +188,8 @@ description: "Portfolio profesional de Juan Quintero, especializado en Financial
     </div>
 
     <div style="text-align: center; margin-top: 3rem;">
-      <a href="./projects" class="btn btn-secondary">Ver Todos los Proyectos</a>
-      <a href="https://github.com/JacquetAlexis23/portfolio-projects" class="btn" target="_blank" style="margin-left: 1rem;">📦 Repositorio Completo</a>
+      <a href="./projects" class="btn btn-secondary">Ver todos los proyectos</a>
+      <a href="https://github.com/Juancho-00/portfolio-projects" class="btn" target="_blank" style="margin-left: 1rem;">📦 Repositorio completo</a>
     </div>
   </section>
 
