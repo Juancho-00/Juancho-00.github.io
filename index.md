@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Alexis Jacquet - Data Scientist & ML Engineer"
-description: "Portfolio profesional de Alexis Jacquet, especialista en Machine Learning, Deep Learning y soluciones de IA para negocios."
+title: "Juan Quintero - Financial Engineer & Data Business Analyst"
+description: "Portfolio profesional de Juan Quintero, especializado en Financial Analytics, en Data Business Analytics e AI Solutions para negocios."
 ---
 
 <div class="bg-animation"></div>
@@ -9,8 +9,8 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
 <section class="hero">
   <div class="hero-content">
     <div class="hero-text animate-slide-left">
-      <h1>Alexis Jacquet</h1>
-      <p class="subtitle">Data Scientist | Machine Learning Engineer | AI Solutions Architect</p>
+      <h1>Juan Quintero</h1>
+      <p class="subtitle">Financial Engineer | Data Business Analyst | AI Solutions</p>
       
       <div class="hero-stats">
         <div class="stat-item">
@@ -34,7 +34,7 @@ description: "Portfolio profesional de Alexis Jacquet, especialista en Machine L
     </div>
     
     <div class="hero-image animate-slide-up">
-      <img src="./assets/images/profile.jpg" alt="Alexis Jacquet" class="profile-image">
+      <img src="./assets/images/profile.png" alt="Juan Quintero" class="profile-image">
     </div>
   </div>
 </section>
